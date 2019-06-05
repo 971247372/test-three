@@ -7860,6 +7860,10 @@ text-table@0.2.0, text-table@^0.2.0:
   version "0.2.0"
   resolved "https://registry.npm.taobao.org/text-table/download/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
 
+three-orbitcontrols@^2.102.1:
+  version "2.102.1"
+  resolved "https://registry.npm.taobao.org/three-orbitcontrols/download/three-orbitcontrols-2.102.1.tgz#f4071e79f1c12e2b7668992cb06cfa29a816629d"
+
 three@^0.105.2:
   version "0.105.2"
   resolved "https://registry.npm.taobao.org/three/download/three-0.105.2.tgz#d135f1549bdcf5a9acd904ba3dbf9198a0268984"
